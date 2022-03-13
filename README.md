@@ -1,6 +1,6 @@
 # 
 # ☕ Ana Sayfa Tasarımı 
-## [Youtube'da izleyin](https://youtu.be/kObf5-dJMpw)
+## [Youtube'da izleyin](https://www.youtube.com/watch?v=vbxqGITBwUk)
 
 
 - Saat Bilgisi
