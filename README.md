@@ -8,9 +8,8 @@
 - İllere Göre Hava Durumu
 - Dünya Haritası
 
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
 
-![preview img](/saat.png)
-![preview img](/hava.png)
-![preview img](/haber.png)
-![preview img](/harita.png)
+![preview img](/saat.PNG)
+![preview img](/hava.PNG)
+![preview img](/haber.PNG)
+![preview img](/harita.PNG)
